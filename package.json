@@ -1,5 +1,5 @@
 {
-  "name": "keystone-types",
+  "name": "@types/keystone-types",
   "version": "1.0.0",
   "description": "",
   "scripts": {
